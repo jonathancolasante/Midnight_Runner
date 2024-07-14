@@ -29,9 +29,6 @@ namespace RST
         {
             Global.btn1 = false;
             Global.btn2 = false;
-
-            System.Media.SoundPlayer player = new System.Media.SoundPlayer(@"C:\Users\jonat\Downloads\backgroundmmm2.wav");
-            player.Play();
         }
 
         private void button3_Click(object sender, EventArgs e)
